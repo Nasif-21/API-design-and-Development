@@ -1,0 +1,22 @@
+[
+    {
+    "id":101,
+    "fullname":"Sheikh Muhtasim Nasif",
+    "email":"nasifshitab01@gmail.com",
+    "phonenumber":"01799214049"
+    },
+
+    {
+    "id":102,
+    "fullname":"Md Ahnaf ibne Farabi",
+    "email":"ahnafabba@gmail.com",
+    "phonenumber":"01799214049"
+    },
+    {
+    "id":103,
+    "fullname":"Ms Nasif",
+    "email":"nasifkabibi@gmail.com",
+    "phonenumber":"01799214049"
+    }
+
+]
